@@ -1,7 +1,3 @@
----
-title: Rust on Ubuntu subsystem
----
-
 ## pre-requisites
 
 * python
